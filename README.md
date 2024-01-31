@@ -4,10 +4,16 @@
 ![Design](https://img.shields.io/badge/Design-Schematic-blue)
 ![made-with-eagle](https://img.shields.io/badge/Made%20with-Eagle-blue.svg)
 ![Hardware](https://img.shields.io/badge/Hardware-Expansion%20Module-blue)
-![Interface](https://img.shields.io/badge/Interface-UART-yellow)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
+The Triple I2C Expansion Module is a practical addition for Smartboard users, facilitating smart prototyping by enabling the management of multiple I2C devices. This module is designed to easily integrate with single connectors on the Smartboard, offering three independent I2C outputs.
 
+## Key Features and Functions
+
+- **Three Independent I2C Outputs**: Allows the connection of multiple I2C devices, even with overlapping address ranges.
+- **Versatile Connectivity**: Features connectors for both JST and GROVE, as well as GOLD PIN headers, making it easy to connect an oscilloscope for bus monitoring.
+- **Application Flexibility**: Ideal for connecting sensors, memory modules, Real-Time Clocks (RTC), and other I2C compatible devices.
+- **Educational Tool**: Serves as an excellent resource for learning about creating IP modules, particularly in the context of hardware I2C interfaces.
 
 ![Schematic](media/sch.png)
 ![Board Design](media/brd.png)
