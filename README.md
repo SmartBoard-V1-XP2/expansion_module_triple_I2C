@@ -15,7 +15,7 @@ The Triple I2C Expansion Module is a practical addition for Smartboard users, fa
 - **Application Flexibility**: Ideal for connecting sensors, memory modules, Real-Time Clocks (RTC), and other I2C compatible devices.
 - **Educational Tool**: Serves as an excellent resource for learning about creating IP modules, particularly in the context of hardware I2C interfaces.
 
-#Hardware and Design
+## Hardware and Design
 
 ![Schematic](media/sch.png)
 ![Board Design](media/brd.png)
